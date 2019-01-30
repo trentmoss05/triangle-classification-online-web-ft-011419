@@ -17,6 +17,8 @@ class Triangle
     else
       :scalene
     end
-    
   end
+  
+  def check_triangle
+  
 end
