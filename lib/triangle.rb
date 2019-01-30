@@ -21,6 +21,6 @@ class Triangle
   end
   
   def check_triangle
-    real_triangle = 
+    real_triangle = [side1 + side2 > side3]
   
 end
