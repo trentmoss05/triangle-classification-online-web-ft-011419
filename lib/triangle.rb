@@ -22,6 +22,6 @@ class Triangle
   
   def check_triangle
     real_triangle = [(side1 + side2 > side3), (side1 + side3 > side2), (side2 + side3 > side1)]
-    [side1, side2, side3].each 
+    [side1, side2, side3].each { |side| real_triangle
   
 end
