@@ -26,6 +26,7 @@ class Triangle
     raise TringleError if real_triangle.include?(false)
   end
   
-  
+  class TriangleError < StandardError
+  end
   
 end
