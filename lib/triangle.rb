@@ -21,5 +21,6 @@ class Triangle
   end
   
   def check_triangle
+    
   
 end
